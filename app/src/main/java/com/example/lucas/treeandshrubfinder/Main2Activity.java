@@ -15,6 +15,7 @@ public class Main2Activity extends AppCompatActivity {
 
     AutoCompleteTextView edit;
 
+    //test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
