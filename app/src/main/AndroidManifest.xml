@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lucas.treeandshrubfinder">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".title"
+            android:theme="@style/AppTitle">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".BrownTurkeyFig" />
+        <activity android:name=".NoResults" />
+        <activity android:name=".EmeraldGreenArborvitae" />
+        <activity android:name=".DelawareValleyWhiteAzalea" />
+        <activity android:name=".LemonPfizzJuniper" />
+        <activity android:name=".KwanzanCherry" />
+        <activity android:name=".EbonyFlameCrapeMyrtle" />
+        <activity android:name=".DragonLadyHolly" />
+        <activity android:name=".AutumnBlazeMaple" />
+        <activity android:name=".LeylandCypress" />
+        <activity android:name=".ManhattanEuonymus" />
+        <activity android:name=".InkberryHolly" />
+        <activity android:name=".CherokeeHolly" />
+        <activity android:name=".GreenLusterHolly" />
+        <activity android:name=".CompactaHolly" />
+        <activity android:name=".SkyPencilHolly" />
+        <activity android:name=".HelleriHolly" />
+        <activity android:name=".RedBeautyHolly" />
+        <activity android:name=".SoftTouchHolly" />
+        <activity android:name=".NellieStevensHolly" />
+        <activity android:name=".ChinaTwinsHolly" />
+        <activity android:name=".HoogendoornHolly" />
+        <activity android:name=".DynamiteCrapeMyrtle" />
+        <activity android:name=".NantucketPrivet" />
+        <activity android:name=".AcerPalmatumJapaneseMaple" />
+        <activity android:name=".WeepingGiantSequoia" />
+        <activity android:name=".AureaAtlasCedar" />
+        <activity android:name=".ColumnarNorwaySpruce" />
+        <activity android:name=".PaperbarkMaple" />
+        <activity android:name=".ManchurianMaple" />
+        <activity android:name=".LittleGemSpruce" />
+        <activity android:name=".BloodgoodJapaneseMaple" />
+        <activity android:name=".SilverKingEuonymus" />
+        <activity android:name=".MoonshadowEuonymus" />
+        <activity android:name=".GoldenEuonymus" />
+        <activity android:name=".GreenSpireEuonymus" />
+        <activity android:name=".BluePointJuniper" />
+        <activity android:name=".AustralisMagnolia" />
+        <activity android:name=".GreenGiantArborvitae" />
+        <activity android:name=".WeepingAlaskanCedar" />
+        <activity android:name=".ContortaPine" />
+        <activity android:name=".LittleGemMagnolia" />
+        <activity android:name=".OttoLuykenCherryLaurel" />
+        <activity android:name=".SkipLaurel" />
+        <activity android:name=".SerbianSpruce" />
+        <activity android:name=".AnnMagnolia" />
+        <activity android:name=".Forsythia" />
+        <activity android:name=".DappledWillow" />
+        <activity android:name=".RadicansCryptomeria" />
+        <activity android:name=".PrairiefireCrabapple" />
+        <activity android:name=".TulipPoplar" />
+        <activity android:name=".SweetBayMagnolia" />
+        <activity android:name=".CelesteFig" />
+        <activity android:name=".MaleKiwi" />
+        <activity android:name=".WonderfulPomegranate" />
+        <activity android:name=".CarolineRaspberry" />
+        <activity android:name=".OuachitaBlackberry" />
+        <activity android:name=".FemaleKiwi" />
+        <activity android:name=".IssaiKiwi" />
+        <activity android:name=".TripleCrownBlackberry" />
+        <activity android:name=".ConcordGrape" />
+        <activity android:name=".NeptuneGrape" />
+        <activity android:name=".JewelRaspberry" />
+        <activity android:name=".HinnonmakiGooseberry" />
+        <activity android:name=".PixwellGooseberry" />
+        <activity android:name=".BlackBeautyElderberry" />
+        <activity android:name=".BlackLaceElderberry" />
+        <activity android:name=".RaspberryShortcake" />
+        <activity android:name=".WillametteRaspberry" />
+        <activity android:name=".PinkIcingBlueberry" />
+        <activity android:name=".PeachSorbetBlueberry" />
+        <activity android:name=".BlueberryGlaze" />
+        <activity android:name=".DukeBlueberry" />
+        <activity android:name=".ChippewaBlueberry" />
+        <activity android:name=".JerseyBlueberry" />
+        <activity android:name=".PrimeArkBlackberry" />
+        <activity android:name=".ChandlerBlueberry" />
+        <activity android:name=".ONealBlueberry" />
+        <activity android:name=".PatriotBlueberry" />
+        <activity android:name=".BlueJayBlueberry" ></activity>
+    </application>
+
+</manifest>

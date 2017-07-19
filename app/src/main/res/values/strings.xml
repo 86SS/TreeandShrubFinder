@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Tree and Shrub Finder</string>
+    <string name="intro">Please select the options you like!</string>
+    <string name="button">Find</string>
+    <string name="size">Size</string>
+    <string name="type">Type</string>
+    <string name="shade">Shade</string>
+    <string name="privacy">Privacy</string>
+    <string name="hedge">Hedge</string>
+    <string name="fruitnuts">Fruit or Nuts</string>
+    <string name="flowering">Flowers</string>
+
+    <string name="title_activity_title">title</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="items_array">
+        <item>Brown Turkey Fig</item>
+        <item>Emerald Green Arborvitae</item>
+        <item>Delaware Valley White Azalea</item>
+        <item>Lemon Pfizz Juniper</item>
+        <item>Kwanzan Cherry</item>
+        <item>Ebony Flame Crape Myrtle</item>
+        <item>Dragon Lady Holly</item>
+        <item>Autumn Blaze Maple</item>
+        <item>Leyland Cypress</item>
+        <item>Manhattan Euonymus</item>
+        <item>Inkberry Holly</item>
+        <item>Cherokee Holly</item>
+        <item>Green Luster Holly</item>
+        <item>Compacta Holly</item>
+        <item>Sky Pencil Holly</item>
+        <item>Helleri Holly</item>
+        <item>Red Beauty Holly</item>
+        <item>Soft Touch Holly</item>
+        <item>Nellie Stevens Holly</item>
+        <item>China Twins Holly</item>
+        <item>Hoogendoorn Holly</item>
+        <item>Dynamite Crape Myrtle</item>
+        <item>Nantucket Privet</item>
+        <item>Acer Palmatum Japanese Maple</item>
+        <item>Weeping Giant Sequoia</item>
+        <item>Aurea Atlas Cedar</item>
+        <item>Columnar Norway Spruce</item>
+        <item>Paperbark Maple</item>
+        <item>Manchurian Maple</item>
+        <item>Little Gem Spruce</item>
+        <item>Bloodgood Japanese Maple</item>
+        <item>Silver King Euonymus</item>
+        <item>Moonshadow Euonymus</item>
+        <item>Golden Euonymus</item>
+        <item>Green Spire Euonymus</item>
+        <item>Blue Point Juniper</item>
+        <item>Australis Magnolia</item>
+        <item>Green Giant Arborvitae</item>
+        <item>Weeping Alaskan Cedar</item>
+        <item>Contorta Pine</item>
+        <item>Little Gem Magnolia</item>
+        <item>Otto Luyken Cherry Laurel</item>
+        <item>Skip Laurel</item>
+        <item>Serbian Spruce</item>
+        <item>Ann Magnolia</item>
+        <item>Forsythia</item>
+        <item>Dappled Willow</item>
+        <item>Radicans Cryptomeria</item>
+        <item>Prairiefire Crabapple</item>
+        <item>Tulip Poplar</item>
+        <item>Sweet Bay Magnolia</item>
+        <item>Celeste Fig</item>
+        <item>Male Kiwi</item>
+        <item>Wonderful Pomegranate</item>
+        <item>Caroline Raspberry</item>
+        <item>Ouachita Blackberry</item>
+        <item>Female Kiwi</item>
+        <item>Issai Kiwi</item>
+        <item>Triple Crown Blackberry</item>
+        <item>Concord Grape</item>
+        <item>Neptune Grape</item>
+        <item>Jewel Raspberry</item>
+        <item>Hinnonmaki Gooseberry</item>
+        <item>Pixwell Gooseberry</item>
+        <item>Black Beauty Elderberry</item>
+        <item>Black Lace Elderberry</item>
+        <item>Raspberry Shortcake</item>
+        <item>Willamette Raspberry</item>
+        <item>Pink Icing Blueberry</item>
+        <item>Peach Sorbet Blueberry</item>
+        <item>Blueberry Glaze</item>
+        <item>Duke Blueberry</item>
+        <item>Chippewa Blueberry</item>
+        <item>Jersey Blueberry</item>
+        <item>Prime Ark Blackberry</item>
+        <item>Chandler Blueberry</item>
+        <item>ONeal Blueberry</item>
+        <item>Patriot Blueberry</item>
+        <item>Blue Jay Blueberry</item>
+        <item>Ponderosa Lemon</item>
+        <item>Meyer Lemon</item>
+        <item>Autumn Magic Black Chokeberry</item>
+        <item>Viking Black Chokeberry</item>
+        <item>Dwarf Burning Bush</item>
+        <item>Winters Star Camellia</item>
+        <item>April Dawn Camellia</item>
+        <item>Double Knock Out Rose</item>
+        <item>Autumn Ivory Encore Azalea</item>
+        <item>Autumn Sunset Encore Azalea</item>
+        <item>Baby Gem Boxwood</item>
+        <item>Hardy Pecan</item>
+        <item>Johns Elderberry</item>
+        <item>The Rising Sun Redbud</item>
+        <item>Chinese Pistachio</item>
+        <item>Japanese Zelkova</item>
+        <item>Carpathian English Walnut</item>
+        <item>Granny Smith Apple</item>
+        <item>Bartlett Pear</item>
+        <item>Dwarf Asian Pear</item>
+        <item>Dwarf twentieth Century Asian Pear</item>
+        <item>Gala Apple</item>
+        <item>Reliance Peach</item>
+        <item>Stanley Plum</item>
+        <item>Stella Sweet Cherry</item>
+        <item>Semi Dwarf Stella Sweet Cherry</item>
+        <item>Bing Sweet Cherry</item>
+        <item>Contender Peach</item>
+        <item>Fuyu Persimmon</item>
+        <item>Halls Hardy Almond</item>
+    </string-array>
+
+</resources>
