@@ -23,7 +23,7 @@ public class Main2Activity extends AppCompatActivity {
         TextView tv_results = (TextView) findViewById(R.id.tv_results);
         TextView tv1 = (TextView) findViewById(R.id.tv1);
 
-        AutoCompleteTextView edit = (AutoCompleteTextView) findViewById(R.id.et_item);
+        edit = (AutoCompleteTextView) findViewById(R.id.et_item);
 
         String[] items = getResources().getStringArray(R.array.items_array);
         java.util.Arrays.sort(items);
