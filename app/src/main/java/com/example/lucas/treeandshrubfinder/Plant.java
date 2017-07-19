@@ -978,6 +978,366 @@ public class Plant implements Cloneable{
             Flowering = "none";
             FruitNut = "blueberry";
         }
+        else if(name == "Ponderosa Lemon"){
+            this.Name = "Ponderosa Lemon";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "lemon";
+        }
+        else if(name == "Meyer Lemon"){
+            this.Name = "Meyer Lemon";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "lemon";
+        }
+        else if(name == "Autumn Magic Black Chokeberry"){
+            this.Name = "Autumn Magic Black Chokeberry";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "chokeberry";
+        }
+        else if(name == "Viking Black Chokeberry"){
+            this.Name = "Viking Black Chokeberry";
+            Size = "s";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "chokeberry";
+        }
+        else if(name == "Dwarf Burning Bush"){
+            this.Name = "Dwarf Burning Bush";
+            Size = "s";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = true;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "none";
+            FruitNut = "none";
+        }
+        else if(name == "Winters Star Camellia"){
+            this.Name = "Winters Star Camellia";
+            Size = "m";
+            Type = "evergreen";
+            Privacy = true;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "pink";
+            FruitNut = "none";
+        }
+        else if(name == "April Dawn Camellia"){
+            this.Name = "April Dawn Camellia";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = true;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "none";
+        }
+        else if(name == "Double Knock Out Rose"){
+            this.Name = "Double Knock Out Rose";
+            Size = "s";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = true;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "red";
+            FruitNut = "none";
+        }
+        else if(name == "Autumn Ivory Encore Azalea"){
+            this.Name = "Autumn Ivory Encore Azalea";
+            Size = "xs";
+            Type = "evergreen";
+            Privacy = false;
+            Shade = false;
+            Hedge = true;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "none";
+        }
+        else if(name == "Autumn Sunset Encore Azalea"){
+            this.Name = "Autumn Sunset Encore Azalea";
+            Size = "xs";
+            Type = "evergreen";
+            Privacy = false;
+            Shade = false;
+            Hedge = true;
+            Vine = false;
+            Growth = "fast";
+            Flowering = "red";
+            FruitNut = "none";
+        }
+        else if(name == "Baby Gem Boxwood"){
+            this.Name = "Baby Gem Boxwood";
+            Size = "s";
+            Type = "evergreen";
+            Privacy = false;
+            Shade = false;
+            Hedge = true;
+            Vine = false;
+            Growth = "slow";
+            Flowering = "none";
+            FruitNut = "none";
+        }
+        else if(name == "Hardy Pecan"){
+            this.Name = "Hardy Pecan";
+            Size = "xxl";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = true;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "none";
+            FruitNut = "pecan";
+        }
+        else if(name == "Johns Elderberry"){
+            this.Name = "Johns Elderberry";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "elderberry";
+        }
+        else if(name == "The Rising Sun Redbud"){
+            this.Name = "The Rising Sun Redbud";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "pink";
+            FruitNut = "none";
+        }
+        else if(name == "Chinese Pistachio"){
+            this.Name = "Chinese Pistachio";
+            Size = "xxl";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = true;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "none";
+            FruitNut = "none";
+        }
+        else if(name == "Japanese Zelkova"){
+            this.Name = "Japanese Zelkova";
+            Size = "xxl";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = true;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "none";
+            FruitNut = "none";
+        }
+        else if(name == "Carpathian English Walnut"){
+            this.Name = "Carpathian English Walnut";
+            Size = "xxl";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = true;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "none";
+            FruitNut = "walnut";
+        }
+        else if(name == "Granny Smith Apple"){
+            this.Name = "Granny Smith Apple";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "none";
+            FruitNut = "apple";
+        }
+        else if(name == "Bartlett Pear"){
+            this.Name = "Bartlett Pear";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "pear";
+        }
+        else if(name == "Dwarf Asian Pear"){
+            this.Name = "Dwarf Asian Pear";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "pear";
+        }
+        else if(name == "Dwarf twentieth Century Asian Pear"){
+            this.Name = "Dwarf twentieth Century Asian Pear";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "pear";
+        }
+        else if(name == "Gala Apple"){
+            this.Name = "Gala Apple";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "apple";
+        }
+        else if(name == "Reliance Peach"){
+            this.Name = "Reliance Peach";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "pink";
+            FruitNut = "peach";
+        }
+        else if(name == "Stanley Plum"){
+            this.Name = "Stanley Plum";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "plum";
+        }
+        else if(name == "Stella Sweet Cherry"){
+            this.Name = "Stella Sweet Cherry";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "cherry";
+        }
+        else if(name == "Semi Dwarf Stella Sweet Cherry"){
+            this.Name = "Semi Dwarf Stella Sweet Cherry";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "cherry";
+        }
+        else if(name == "Bing Sweet Cherry"){
+            this.Name = "Bing Sweet Cherry";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "white";
+            FruitNut = "cherry";
+        }
+        else if(name == "Contender Peach"){
+            this.Name = "Contender Peach";
+            Size = "m";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "pink";
+            FruitNut = "peach";
+        }
+        else if(name == "Fuyu Persimmon"){
+            this.Name = "Fuyu Persimmon";
+            Size = "xl";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "slow";
+            Flowering = "yellow";
+            FruitNut = "persimmon";
+        }
+        else if(name == "Halls Hardy Almond"){
+            this.Name = "Halls Hardy Almond";
+            Size = "l";
+            Type = "deciduous";
+            Privacy = false;
+            Shade = false;
+            Hedge = false;
+            Vine = false;
+            Growth = "mod";
+            Flowering = "pink";
+            FruitNut = "almond";
+        }
     }
 
     Plant(String Name, String Size, String Type, Boolean Privacy, Boolean Shade, Boolean Hedge, Boolean Vine, String Growth, String Flowering, String FruitNut){

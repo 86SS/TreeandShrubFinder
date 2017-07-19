@@ -311,6 +311,12 @@
                 android:text="Blueberry" />
 
             <CheckBox
+                android:id="@+id/cb_chokeberry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Chokeberry" />
+
+            <CheckBox
                 android:id="@+id/cb_elderberry"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

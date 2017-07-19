@@ -12,7 +12,7 @@ import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
 
-    CheckBox cb_xs, cb_s, cb_m, cb_l, cb_xl, cb_xxl, cb_deciduous, cb_evergreen, cb_y1, cb_y2, cb_y3, cb_y4, cb_slow, cb_mod, cb_fast, cb_none1, cb_red, cb_white, cb_pink, cb_yellow, cb_orange, cb_none2, cb_apple, cb_pear, cb_peach, cb_almond, cb_lemon, cb_lime, cb_kiwi, cb_fig, cb_persimmon, cb_grape, cb_blueberry, cb_blackberry, cb_raspberry, cb_pomegranate, cb_plum, cb_gooseberry, cb_elderberry, cb_pecan, cb_walnut;
+    CheckBox cb_xs, cb_s, cb_m, cb_l, cb_xl, cb_xxl, cb_deciduous, cb_evergreen, cb_y1, cb_y2, cb_y3, cb_y4, cb_slow, cb_mod, cb_fast, cb_none1, cb_red, cb_white, cb_pink, cb_yellow, cb_orange, cb_none2, cb_apple, cb_pear, cb_peach, cb_almond, cb_lemon, cb_lime, cb_kiwi, cb_fig, cb_chokeberry, cb_persimmon, cb_grape, cb_blueberry, cb_blackberry, cb_raspberry, cb_pomegranate, cb_plum, cb_gooseberry, cb_elderberry, cb_pecan, cb_walnut;
     ArrayList<String> selection = new ArrayList<String>();
     ArrayList<Plant> test = new ArrayList<Plant>();
     ArrayList<Plant> test2 = new ArrayList<Plant>(test.size());
@@ -316,6 +316,7 @@ public class MainActivity extends AppCompatActivity {
         cb_plum = (CheckBox) findViewById(R.id.cb_plum);
         cb_gooseberry = (CheckBox) findViewById(R.id.cb_gooseberry);
         cb_elderberry = (CheckBox) findViewById(R.id.cb_elderberry);
+        cb_chokeberry = (CheckBox) findViewById(R.id.cb_chokeberry);
         cb_pecan = (CheckBox) findViewById(R.id.cb_pecan);
         cb_walnut = (CheckBox) findViewById(R.id.cb_walnut);
 
@@ -707,6 +708,18 @@ public class MainActivity extends AppCompatActivity {
         if (cb_almond.isChecked()) {
             for(Plant p : test){
                 if(p.getFruitNut().equals("almond")){
+                    selection.add(p.getName());
+                }
+                else{
+                    selection.remove(p.getName());
+                    test2.add(p);
+                }
+            }
+            test.removeAll(test2);
+        }
+        if (cb_chokeberry.isChecked()) {
+            for(Plant p : test){
+                if(p.getFruitNut().equals("chokeberry")){
                     selection.add(p.getName());
                 }
                 else{
