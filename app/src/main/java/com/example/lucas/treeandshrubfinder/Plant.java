@@ -501,7 +501,7 @@ public class Plant implements Cloneable{
         else if(name == "Contorta Pine"){
             this.Name = "Contorta Pine";
             Size = "l";
-            Type = "evergreen";//
+            Type = "evergreen";
             Privacy = true;
             Shade = false;
             Hedge = false;
@@ -1218,8 +1218,8 @@ public class Plant implements Cloneable{
             Flowering = "white";
             FruitNut = "pear";
         }
-        else if(name == "Dwarf twentieth Century Asian Pear"){
-            this.Name = "Dwarf twentieth Century Asian Pear";
+        else if(name == "Dwarf Twentieth Century Asian Pear"){
+            this.Name = "Dwarf Twentieth Century Asian Pear";
             Size = "m";
             Type = "deciduous";
             Privacy = false;
@@ -1338,6 +1338,7 @@ public class Plant implements Cloneable{
             Flowering = "pink";
             FruitNut = "almond";
         }
+
     }
 
     Plant(String Name, String Size, String Type, Boolean Privacy, Boolean Shade, Boolean Hedge, Boolean Vine, String Growth, String Flowering, String FruitNut){
