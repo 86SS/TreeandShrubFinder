@@ -362,6 +362,132 @@ public class Main2Activity extends AppCompatActivity {
             Intent intent = new Intent(this, BlueJayBlueberry.class);
             startActivity(intent);
         }
+
+        /*
+
+        else if(name.equalsIgnoreCase("Ponderosa Lemon")){
+            Intent intent = new Intent(this, PonderosaLemon.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Meyer Lemon")){
+            Intent intent = new Intent(this, MeyerLemon.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Autumn Magic Black Chokeberry")){
+            Intent intent = new Intent(this, AutumnMagicBlackChokeberry.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Viking Black Chokeberry")){
+            Intent intent = new Intent(this, VikingBlackChokeberry.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Dwarf Burning Bush")){
+            Intent intent = new Intent(this, DwarfBurningBush.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Winters Star Camellia")){
+            Intent intent = new Intent(this, WintersStarCamellia.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("April Dawn Camellia")){
+            Intent intent = new Intent(this, AprilDawnCamellia.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Double Knock Out Rose")){
+            Intent intent = new Intent(this, DoubleKnockOutRose.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Autumn Ivory Encore Azalea")){
+            Intent intent = new Intent(this, AutumnIvoryEncoreAzalea.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Autumn Sunset Encore Azalea")){
+            Intent intent = new Intent(this, AutumnSunsetEncoreAzalea.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Baby Gem Boxwood")){
+            Intent intent = new Intent(this, BabyGemBoxwood.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Hardy Pecan")){
+            Intent intent = new Intent(this, HardyPecan.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Johns Elderberry")){
+            Intent intent = new Intent(this, JohnsElderberry.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("The Rising Sun Redbud")){
+            Intent intent = new Intent(this, TheRisingSunRedbud.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Chinese Pistachio")){
+            Intent intent = new Intent(this, ChinesePistachio.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Japanese Zelkova")){
+            Intent intent = new Intent(this, JapaneseZelkova.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Carpathian English Walnut")){
+            Intent intent = new Intent(this, CarpathianEnglishWalnut.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("GrannySmithApple")){
+            Intent intent = new Intent(this, GrannySmithApple.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Bartlett Pear")){
+            Intent intent = new Intent(this, BartlettPear.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Dwarf Asian Pear")){
+            Intent intent = new Intent(this, DwarfAsianPear.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Dwarf Twentieth Century Asian Pear")){
+            Intent intent = new Intent(this, DwarfTwentiethCenturyAsianPear.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Gala Apple")){
+            Intent intent = new Intent(this, GalaApple.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Reliance Peach")){
+            Intent intent = new Intent(this, ReliancePeach.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Stanley Plum")){
+            Intent intent = new Intent(this, StanleyPlum.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Stella Sweet Cherry")){
+            Intent intent = new Intent(this, StellaSweetCherry.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Semi Dwarf Stella Sweet Cherry")){
+            Intent intent = new Intent(this, SemiDwarfStellaSweetCherry.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Bing Sweet Cherry")){
+            Intent intent = new Intent(this, BingSweetCherry.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Contender Peach")){
+            Intent intent = new Intent(this, ContenderPeach.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Fuyu Persimmon")){
+            Intent intent = new Intent(this, FuyuPersimmon.class);
+            startActivity(intent);
+        }
+        else if(name.equalsIgnoreCase("Halls Hardy Almond")){
+            Intent intent = new Intent(this, HallsHardyAlmond.class);
+            startActivity(intent);
+        }
+
+        */
+
         else{
             Intent intent = new Intent(this, NoResults.class);
             startActivity(intent);
